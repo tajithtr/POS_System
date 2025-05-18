@@ -1,4 +1,3 @@
-
 package com.mycompany.possystem.service;
 
 import com.mycompany.possystem.dao.SalesDAO;
@@ -9,8 +8,7 @@ import java.sql.Timestamp;
 import java.util.List;
 
 public class SalesService {
-    
-     private final SalesDAO salesDAO;
+    private final SalesDAO salesDAO;
 
     public SalesService() {
         this.salesDAO = new SalesDAO();
