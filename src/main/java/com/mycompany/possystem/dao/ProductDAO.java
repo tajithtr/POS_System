@@ -1,5 +1,5 @@
 
-package my.company.possystem.dao;
+package com.mycompany.possystem.dao;
 
 import com.mycompany.possystem.model.Product;
 import com.mycompany.possystem.DBUtil;
