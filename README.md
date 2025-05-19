@@ -1,5 +1,5 @@
 # 🛒 Retail POS System
-<img src="assets/POS%20Banner.png" width="700" />
+<img src="assets/POS%20Banner.png" width="850" />
 
 A modern, full-featured Point of Sale system for retail businesses. Handles inventory, sales, receipts, and reporting with a clean interface and efficient performance.
 
